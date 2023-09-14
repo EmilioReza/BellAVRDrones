@@ -1,3 +1,5 @@
+# pip install pillow
+
 from PIL import Image
 import math
 
